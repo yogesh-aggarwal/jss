@@ -1,0 +1,6 @@
+- Change of class on some event like hover, active, focus ... of itself and other
+- Conditional classes on the basis of varibles and dynamically update it
+- Loops for numbered classes, ids & objects
+- Lists, Maps
+- Functions
+- Variables
